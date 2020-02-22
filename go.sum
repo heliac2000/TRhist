@@ -1,0 +1,6 @@
+github.com/klauspost/compress v1.10.1 h1:a/QY0o9S6wCi0XhxaMX/QmusicNUqCqFugR6WKPOSoQ=
+github.com/klauspost/compress v1.10.1/go.mod h1:aoV0uJVorq1K+umq18yTdKaF57EivdYsUV+/s2qKfXs=
+github.com/klauspost/pgzip v1.2.1 h1:oIPZROsWuPHpOdMVWLuJZXwgjhrW8r1yEX8UqMyeNHM=
+github.com/klauspost/pgzip v1.2.1/go.mod h1:Ch1tH69qFZu15pkjo5kYi6mth2Zzwzt50oCQKQE9RUs=
+github.com/tobi-c/go-sais v0.0.0-20160620150734-896c4341e349 h1:W1lywLGj7wcnuZALi7S4OxpOLwnWaoIlhkLWnrjT3AE=
+github.com/tobi-c/go-sais v0.0.0-20160620150734-896c4341e349/go.mod h1:VWEpSFVcLhwpmkpBV0x7a4pSuCfs9KQtPIpkHKEgKQ8=
